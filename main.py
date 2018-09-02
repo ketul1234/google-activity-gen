@@ -11,7 +11,7 @@ from colorama import Fore, Back, Style
 from colorama import init
 init(autoreset=True)
 
-cprint(figlet_format(('Cursed Cooks'), font='doom'), attrs=['bold'])
+
 
 # chromepath = "chrome driver path"
 # set your chrome driver path here ^
