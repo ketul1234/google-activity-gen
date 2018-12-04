@@ -57,7 +57,7 @@ for credential in credentials:
     driver.get(yt)
     print(Fore.GREEN + ("started youtube video"))
     print(" ")
-    time.sleep(5)
+    time.sleep(300)
     driver.get(url)
 
     print(Fore.GREEN + ("starting google searches"))
